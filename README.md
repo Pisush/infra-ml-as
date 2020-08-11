@@ -1,5 +1,10 @@
 # Workshop Description: Infrastructure for a Fraud Detection ML Application
 
+This is a hands on workshop that given at the [Go Get conference](https://www.gogetcommunity.com/) in 05/2020 and will be given at [GopherCon](https://www.gophercon.com/) in 11/2020.
+
+The architecture is based on an architecture used in production by PayPal for fraud detection utilizng an ML model. 
+The workshop is designed for the conference attendees to have a hands on experience of a ML infrastructure. As it based on real-life credit card transactions, there are abstractions in place, especially around reading/writing the transaction content, to allow maximal utilization of the data.
+
 ## Setup
 
 - Have [GitHub](https://help.github.com/en/github/getting-started-with-github/set-up-git) set up on your machine
